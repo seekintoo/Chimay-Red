@@ -1,0 +1,1 @@
+-e git+https://github.com/arthaud/python3-pwntools.git#egg=python3-pwntools
