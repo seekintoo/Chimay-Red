@@ -1,5 +1,5 @@
 # Chimay-Red
-Mikrotik RouterOS 6.x exploit kit. Reverse engineered from the "Vault 7" WikiLeaks publication.
+Mikrotik RouterOS (6.x < 6.38.5) exploit kit. Reverse engineered from the "Vault 7" WikiLeaks publication.
 
 To learn more about the creation and purpose of this software, please visit: [http://blog.seekintoo.com/chimay-red.html](http://blog.seekintoo.com/chimay-red.html)
 
